@@ -12,4 +12,4 @@ click to upload Gif to Gfycat
 5. You should see two input fields. Type the name of the bookmark you would liken the first field
 
 
-![My image](https://media.giphy.com/media/zcCGBRQshGdt6/giphy.gif)
+![Easy as Pie!](https://media.giphy.com/media/zcCGBRQshGdt6/giphy.gif)
