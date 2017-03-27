@@ -10,3 +10,5 @@ click to upload Gif to Gfycat
 4. Click the "Organize" link, then "Add Page" in the drop down
 
 5. You should see two input fields. Type the name of the bookmark you would liken the first field
+
+http://i.imgur.com/n0r8GpP.mp4
